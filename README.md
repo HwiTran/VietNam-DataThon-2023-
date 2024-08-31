@@ -1,2 +1,2 @@
 # VietNam-DataThon-2023-
-remake version from origin
+A remake -> [Original](https://github.com/HMD191/VietNam-DataThon-2023)
